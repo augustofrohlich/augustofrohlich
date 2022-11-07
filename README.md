@@ -1,7 +1,7 @@
 ## Hello! My name is Augusto
 
-- 🔭 Trabalho com ...
-- 🌱 Estudando sobre Javascript
+- 🔭 I work with HTML & CSS
+- 🌱 Studying about JavaScript
 
 <div>
   <a href="https://github.com/augustofrohlich">
