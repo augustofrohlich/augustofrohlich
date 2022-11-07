@@ -1,4 +1,4 @@
-## Olá! Eu me chamo Augusto
+## Hello! My name is Augusto
 
 - 🔭 Trabalho com ...
 - 🌱 Estudando sobre Javascript
